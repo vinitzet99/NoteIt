@@ -1,2 +1,3 @@
 # NoteIt
-It is HTML,CSS,JS to wirte a note using local storgae.
+A basic note taking site
+It is HTML,CSS,JS to write a note using local storgae.
